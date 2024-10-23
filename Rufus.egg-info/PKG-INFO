@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Rufus
+Version: 1.0.0
+Summary: A tool for intelligent web data extraction and synthesis for RAG systems
+Author: Shreyans Jain
+Requires-Dist: selenium
+Requires-Dist: beautifulsoup4
+Requires-Dist: transformers
